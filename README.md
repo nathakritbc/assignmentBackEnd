@@ -24,4 +24,8 @@ JWT_SECRET=aksdgakjshdaisuyiewyrowerowyeroklsjghlasgdfpasod8asd
 
 ```
 
-**คลิกที่ลิ้ง http://localhost:4173  หรือ http://localhost:<ตาม port ที่ได้รัน>**
+## Run Test (Assignment 2)
+
+ ```env
+npx jest
+ ```
