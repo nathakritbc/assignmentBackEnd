@@ -4,6 +4,7 @@
 
  ```bash
 git clone https://github.com/nathakritbc/assignmentBackEnd.git
+cd  assignmentBackEnd
 npm install
 npm start
 ```
