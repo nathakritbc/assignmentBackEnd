@@ -30,3 +30,8 @@ JWT_SECRET=aksdgakjshdaisuyiewyrowerowyeroklsjghlasgdfpasod8asd
  ```env
 npx jest
  ```
+
+## Posman file test api 
+
+<a target= _blank href="./assignment_back_end.postman_collection.json">download postman file</a>
+ 
