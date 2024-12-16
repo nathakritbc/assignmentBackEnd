@@ -31,6 +31,9 @@ JWT_SECRET=aksdgakjshdaisuyiewyrowerowyeroklsjghlasgdfpasod8asd
 npx jest
  ```
 
+## Api test Swagger 
+go to <http://localhost:6060/api-docs>
+
 ## Posman file test api 
 
 <a target= _blank href="./assignment_back_end.postman_collection.json">download postman file</a>
