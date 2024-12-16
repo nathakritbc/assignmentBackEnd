@@ -33,9 +33,10 @@ npx jest
 
 ## Api test Swagger 
 go to <http://localhost:6060/api-docs>
+
 <img src="./src/assets/api-enpoint.png" />
 
 ## Posman file test api 
 
-<a target= _blank  download="./assignment_back_end.postman_collection.json">download postman file</a>
+<a  href="#"  download="./assignment_back_end.postman_collection.json">download postman file</a>
  
