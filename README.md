@@ -33,6 +33,7 @@ npx jest
 
 ## Api test Swagger 
 go to <http://localhost:6060/api-docs>
+<img src="./src/assets/api-enpoint.png" />
 
 ## Posman file test api 
 
