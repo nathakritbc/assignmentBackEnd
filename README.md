@@ -38,5 +38,5 @@ go to <http://localhost:6060/api-docs>
 
 ## Posman file test api 
 
-<a  href="#"  download="./assignment_back_end.postman_collection.json">download postman file</a>
+<a  href="./assignment_back_end.postman_collection.json"  download="assignment_back_end.postman_collection.json">download postman file</a>
  
